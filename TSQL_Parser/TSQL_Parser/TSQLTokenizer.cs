@@ -814,6 +814,9 @@ namespace TSQL
 									case '~':
 									case ':':
 									case '[':
+                                    //PREI
+                                    case '>':
+                                    //PREI
 										{
 											foundEnd = true;
 
